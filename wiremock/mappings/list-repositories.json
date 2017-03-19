@@ -1,0 +1,13 @@
+{
+  "request": {
+      "method": "GET",
+      "url": "/api/repositories"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "responses/repositories.json",
+    "headers": {
+      "Content-type": "application/json"
+    }
+  }
+}
