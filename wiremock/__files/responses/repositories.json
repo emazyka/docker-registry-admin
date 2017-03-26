@@ -1,0 +1,29 @@
+[
+  {
+    "name": "nginx",
+    "tag": "latest",
+    "metadata": {
+      "icon": "http://localhost/static/icons/nginx.png",
+      "stars": "3000",
+      "pulls": "5000"
+    }
+  },
+  {
+    "name": "ubuntu",
+    "tag": "latest",
+    "metadata": {
+      "icon": "http://localhost/static/icons/ubuntu.png",
+      "stars": "10000",
+      "pulls": "80000"
+    }
+  },
+  {
+    "name": "fedora",
+    "tag": "latest",
+    "metadata": {
+      "icon": "http://localhost/static/icons/ubuntu.png",
+      "stars": "11000",
+      "pulls": "12000"
+    }
+  }
+]
